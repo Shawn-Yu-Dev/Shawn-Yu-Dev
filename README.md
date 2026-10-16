@@ -21,7 +21,7 @@
 - 🖥️ 喜欢底层：在 RISC-V 的 xv6 上移植语言解释器、调内核并发、写终端绘图。
 - 🤖 也爱炼丹：用 **PyTorch** 从零实现 CNN、迷你 GPT，或把模型打包进手机 App。
 - 🌱 相信开源：已向 **Flutter** 框架提交并合并 PR，也为 **Win12** 网页桌面项目贡献代码。
-- 🧰 日常在 **Arch / Manjaro Linux** 上开发，善用 **AI 编程助手**（Kilo · Gemini Code Assist · Copilot）提升效率。
+- 🧰 日常在 **Arch / Manjaro Linux** 上开发，善用 **AI 编程助手**（Kilo · OpenCode · Copilot）提升效率。
 
 ---
 
@@ -74,8 +74,10 @@
 | [**win12**](https://github.com/Shawn-Yu-Dev/win12) | `JavaScript` | 为开源网页桌面模拟器 Win12 贡献修复（AI 聊天 / Copilot 交互等）。*Fork* |
 | [**flutter**](https://github.com/Shawn-Yu-Dev/flutter) | `Dart` | Flutter 框架贡献者，修复 `flutter create --platforms` 覆盖 `.metadata` 平台列表的问题（[PR #191573](https://github.com/flutter/flutter/pull/191573) 已合并）。*Fork* |
 
-> 🎮 另有私有作品 **SUPER PLATFORMER**：`C++17 + SDL2` 从零手写的 2D 太空平台跳跃游戏 —— 10 关关卡、3 种敌方 AI、程序化渲染与运行时合成音效，含土狼时间 / 跳跃缓冲等手感调优。
+> 🎮 另有私有作品 **Space Jumper**：`C++17 + SDL2` 从零手写的 2D 太空平台跳跃游戏 —— 10 关关卡、3 种敌方 AI、程序化渲染与运行时合成音效，含土狼时间 / 跳跃缓冲等手感调优。
 > 详见 https://github.com/Shawn-Yu-Dev/SpaceJumper
+> 
+>  **_SpaceJumper 版权所有 (c) 2026 Shawn-Yu。保留所有权利_**
 ---
 
 ## 📊 GitHub 统计
